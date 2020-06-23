@@ -1,2 +1,2 @@
 # BootcampClass1
- deploying static website using surge
+ Deployment of a simple static website using surge
